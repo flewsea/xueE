@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">xueE1</string>
+    <string name="copyright">copyright</string>
+    <string name="server_phone">server_phone</string>
+    <string name="check_update">检查更新</string>
+    <string name="app_version">app_version</string>
+    <string name="company_eng_name">company_eng_name</string>
+    <string name="introduce">introduce</string>
+
+</resources>
